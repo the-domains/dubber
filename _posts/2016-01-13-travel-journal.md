@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: The start of a new personal blog
-datePublished: '2016-01-13T17:44:08.453Z'
-dateModified: '2016-01-13T17:42:29.411Z'
+description: ''
+datePublished: '2016-01-13T18:05:43.228Z'
+dateModified: '2016-01-13T18:04:22.480Z'
 title: Travel Journal
 author: []
 authors: []
@@ -24,7 +24,10 @@ _type: Article
 ---
 # Travel Journal
 
-This is going to be where I post pictures from my travels in 2016 and beyond - and also pictures of life in the north of Sweden. This will coincide nicely with the arrival of a Narrative Clip camera that I've ordered and am expecting in the post - hopefully before heading off to New Zealand via Australia at the beginning of February.
+I'm sitting in the Menzies Business Lounge at Arlanda airport in Stockholm. I've been here for about 5 hours already, and my plane has just been delayed. 
 
-First trip of the year: I'm heading to Berlin to have a meeting about the venue for Music Tech Fest. I'm in the lounge at Arlanda airport in Stockholm.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8da963c5-bf5a-4b2d-b1e6-b170812487d9.JPG)
+I was supposed to be travelling to Vienna with Michela today for a European project meeting - but instead my first trip of 2016 is a last-minute booking to Berlin for a meeting with the owner of [Funkhaus][0]. It looks like that will be our venue for Music Tech Fest Berlin. Quite excited about that - pictures to follow.
+
+In the meantime, while I wait for my flight, I'm starting this new blog as a personal travel journal. Nice to have a separate place to keep this stuff.
+
+[0]: http://funkhausberlin.blogspot.com/
