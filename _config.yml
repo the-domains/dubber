@@ -1,28 +1,40 @@
-name: Dubber
 favicon: null
-layout_spectrum: 0.33455
-typography_spectrum: 0.25228
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Dubber
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5842294
+  brandStrength: 0.125
+  lightness: 0.2741936
   brandColors:
     - '#010002'
     - '#f5f4f2'
     - '#312e27'
     - '#6d6c58'
     - '#c2c0b4'
-  brandStrength: 0.125
-  lightness: 0.14205927541479468
-  saturation: 0.8125
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.5358423
+typography_spectrum: 0.2311828
+layout_spectrum: 0.2383513
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
